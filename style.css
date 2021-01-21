@@ -1,0 +1,41 @@
+.main {
+  width:30%;
+  background-color: rgb(89, 146, 196);
+  text-align: center;
+  
+  /* position: initial; */
+}
+.btn {
+  column-fill: auto;
+  
+}
+
+.table {
+  /* width: 400% !important; */
+  width: 1150px;
+  /* float:left */
+  border-radius: 10%;
+  border-style: ridge;
+  /* padding: 2px; */
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 5%;
+  padding-left: 5%;
+  /* width: 600px;
+  height: 600px; */
+  background-color: rgb(85, 128, 57);
+  scroll-margin-block: 0%;
+  margin-top: 0.5%;
+  /* display: inline-block; */
+  text-align: center;
+  /* width: max-content; */
+  /* white-space: nowrap; */
+  /* display: inherit; */
+  
+}
+
+/* .mini-tables-00 {
+  background-color: rgb(168, 140, 140); */
+}
+.forms {
+}
